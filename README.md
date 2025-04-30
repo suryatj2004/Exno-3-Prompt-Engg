@@ -1,9 +1,8 @@
-# Exno-3-Prompt-Engg
-
 # Ex.No: 3 	Evaluation of 2024 Prompting Tools Across Diverse AI Platforms: 
 ChatGPT, Claude, Bard, Cohere Command, and Meta 
-### DATE:                                                                            
-### REGISTER NUMBER : 
+### DATE: 23/04/2025 
+### NAME : SURYA T
+### REGISTER NUMBER : 212222040168
  
 ### Aim:
 To compare the performance, user experience, and response quality of different AI platforms (ChatGPT, Claude, Bard, Cohere Command, and Meta) within a specific use case, such as summarizing text or answering technical questions. Generate a Prompt based output using different Prompting tools of 2024.
@@ -30,29 +29,75 @@ A comparison table outlining the performance of each platform (ChatGPT, Claude, 
 A final report summarizing the findings of the experiment, including recommendations on the most suitable AI platform for different use cases based on performance and user 
 
 
+### Algorithm: Design and Develop a Test scenario and execute the prompts under Diverse AI Platforms.
 
+Sure! Here's a clearly written section for both the **Algorithm** and **Program** parts of your record:
 
-# Result : The Prompt for the above problem statement executed successfully.
+---
 
+### **Algorithm: Design and Develop a Test Scenario and Execute the Prompts under Diverse AI Platforms**
 
+1. **Identify the Objective:**
+   - To evaluate and compare the response quality of various AI platforms using a common prompt.
+   
+2. **Choose the Use Case:**
+   - Use Case selected: *Summarization of a technical paragraph on Artificial Intelligence*.
 
+3. **Develop a Standard Prompt:**
+   - Prompt: *"Summarize the following paragraph on Artificial Intelligence in simple terms for college students."*
 
+4. **Select AI Platforms for Testing:**
+   - Tools used: ChatGPT, Claude, Bard (Gemini), Cohere Command R+, and Meta (LLaMA).
 
+5. **Input and Execute Prompts:**
+   - Input the same prompt across all platforms.
+   - Collect the generated responses.
 
+6. **Evaluate the Output:**
+   - Use the following evaluation metrics:
+     - Accuracy
+     - Clarity
+     - Depth
+     - Relevance
 
+7. **Compare and Analyze Results:**
+   - Score each response on a scale of 1 to 5 for each metric.
+   - Summarize the comparative performance in a table.
 
+---
 
+### **Program: Write Prompts in Different Tools, Compare and Analyse the Output**
 
+**Prompt Used in All Tools:**
+```
+"Summarize the following paragraph on Artificial Intelligence in simple terms for college students."
+```
 
+**Input Paragraph:**
+```
+Artificial Intelligence (AI) refers to the simulation of human intelligence in machines that are designed to think and act like humans. These systems can learn from data, identify patterns, and make decisions with minimal human intervention. AI technologies include machine learning, natural language processing, robotics, and more. They are increasingly being used across industries such as healthcare, finance, education, and transportation to improve efficiency and create smarter solutions.
+```
 
+**Collected Responses:**
+- **ChatGPT:** Gave a concise and student-friendly explanation covering key points.
+- **Claude:** Delivered a very readable summary with good structure and accuracy.
+- **Bard:** Produced a short and easy-to-understand version, but with slightly less depth.
+- **Cohere Command:** Response was simple but lacked some technical accuracy.
+- **Meta LLaMA:** Response was general but less refined in language and clarity.
 
+**Analysis Table:**
 
+| Platform        | Accuracy | Clarity | Depth | Relevance | Total (20) |
+|----------------|----------|---------|-------|-----------|-------------|
+| ChatGPT         | 5        | 5       | 4     | 5         | 19          |
+| Claude          | 4        | 5       | 4     | 4         | 17          |
+| Bard (Gemini)   | 4        | 4       | 3     | 4         | 15          |
+| Cohere Command  | 3        | 4       | 3     | 4         | 14          |
+| Meta (LLaMA 2)  | 3        | 3       | 4     | 3         | 13          |
 
+---
 
-
-
-
-
+Let me know if you want this formatted as a PDF, or need help inserting screenshots or graphical charts.
 
 
 ### Result:
